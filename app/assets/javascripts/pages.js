@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
                   rating: 10,
                   reviewer: "Jay"
                 },
-                {"I miss Angular.js"
+                {"I miss Angular.js",
                   rating: 3,
                   reviewer: "peter"
                 }
